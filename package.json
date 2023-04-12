@@ -14,7 +14,7 @@
     "react-scripts": "3.2.0",
     "rebass": "^4.0.6",
     "redux": "^4.0.4",
-    "xml2js": "^0.4.22"
+    "xml2js": "^0.5.0"
   },
   "scripts": {
     "start": "react-scripts start",
